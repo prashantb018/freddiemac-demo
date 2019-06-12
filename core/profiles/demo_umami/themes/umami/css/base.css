@@ -265,7 +265,7 @@ p {
 /* Additional CSS*/
 
 .layout-bottom {
-    background: #00a6e2;
+    background: #00a6e2!important;
     color: #FFF;
 
 }
