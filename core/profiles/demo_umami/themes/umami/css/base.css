@@ -322,7 +322,7 @@ footer.footer {
 }
 .layout-tabs {
     background: #9acb2d!important;
-    margin-top: 150px;
+    margin-top: 110px;
 }
 .layout-header {
     padding: 0;
@@ -332,6 +332,7 @@ footer.footer {
     box-shadow: 0px 6px 5px 0px #ccc;
     position: fixed;
     width: 100%;
+    z-index: 9999;
 }
 main.main.container {
     padding: 0 0 40px 0;
