@@ -271,7 +271,7 @@ p {
 }
 footer.footer {
     background: #00a6e2!important;
-    padding: 40px 0!important;
+    padding: 100px 0!important;
 }
 .layout-bottom p, .layout-bottom a {
     font-size: 12pt;
@@ -305,6 +305,16 @@ footer.footer {
 }
 .how-it-works h2 {
     text-align: center;
-    padding: 40px 0;
+    padding: 0 0 40px 0;
     font-weight: bold;
+}
+.how-it-works-expanded {
+    background: #ebebeb;
+    margin: 40px 0;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.how-it-works-expanded .img-width {
+    width: 80%;
+    margin: 0 auto;
 }
