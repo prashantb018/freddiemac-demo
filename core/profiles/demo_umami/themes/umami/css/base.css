@@ -318,3 +318,14 @@ footer.footer {
     width: 80%;
     margin: 0 auto;
 }
+.layout-tabs {
+    background: #9acb2d!important;
+}
+main.main.container {
+    padding: 0 0 40px 0;
+}
+input#edit-submit {
+    background: #9acb2d!important;
+    border: 0px;
+    font-size: 14pt;
+}
