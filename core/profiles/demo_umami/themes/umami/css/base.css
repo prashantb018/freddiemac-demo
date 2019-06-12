@@ -291,8 +291,10 @@ footer.footer {
 .card-wrap {
     background: #FFF;
     padding: 40px;
-    margin: 40px 0px;
+    margin: 80px 0px;
     min-height: 320px;
+    border: 2px solid #f1ecec;
+    border-bottom: 2px solid #9acb2d;
 }
 .card-title {
     margin: 20px 0;
@@ -301,7 +303,7 @@ footer.footer {
     font-weight: bold;
 }
 .how-it-works {
-    padding: 40px 0 60px;
+    padding: 80px 0;
 }
 .how-it-works h2 {
     text-align: center;
@@ -324,7 +326,7 @@ footer.footer {
 main.main.container {
     padding: 0 0 40px 0;
 }
-input#edit-submit {
+input#edit-submit, input#edit-actions-submit {
     background: #9acb2d!important;
     border: 0px;
     font-size: 14pt;
@@ -356,4 +358,10 @@ a[href="/en/user/login"] {
 a[href="/en/user/login"]:hover {
     background: #FFF;
     text-decoration: none;
+}
+li.tab.is-active a[href="/en/user/login"] {
+    border: 0;
+}
+body{
+  background: #FFF!important;
 }
