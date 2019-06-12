@@ -346,3 +346,14 @@ a.menu-main__link.is-active {
     padding: 10px 0;
     border-bottom: 2px solid #9acb2d;
 }
+a[href="/en/user/login"] {
+    border-radius: 5px;
+    padding: 7px 30px;
+    background: #88BD45;
+    color: #FFF;
+    border: 2px solid #88BD45;
+}
+a[href="/en/user/login"]:hover {
+    background: #FFF;
+    text-decoration: none;
+}
