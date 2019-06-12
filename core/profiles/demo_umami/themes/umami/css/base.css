@@ -329,3 +329,13 @@ input#edit-submit {
     border: 0px;
     font-size: 14pt;
 }
+input[value="Search"] {
+    color: #FFF!important;
+}
+a.menu-main__link.is-active {
+    border-bottom-color: #9acb2d !important;
+}
+.menu-main__link:hover, .menu-main__link.is-active:hover, .menu-main__link:focus{
+  border-bottom-color: #9acb2d !important;
+  color: #9acb2d !important;
+}
