@@ -390,3 +390,25 @@ padding-bottom: 10px;
 .table--app-list td{
 min-width: 200px;
 }
+.table--app-list tr{
+  height: 50px;
+}
+a.button.button-action {
+    background: #9acb2d;
+    border: 0;
+}
+a.button.button-action:hover {
+    color: #000!important;
+}
+table.table--app-list a {
+    text-decoration: none;
+}
+
+table.table--app-list a:hover {
+    background: none;
+    color: #9acb2d;
+    text-decoration: underline;
+}
+table.table--app-list button[type="button"] {
+    color: #000;
+}
