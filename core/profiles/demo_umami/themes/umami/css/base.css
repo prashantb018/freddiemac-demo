@@ -262,3 +262,13 @@ ul ol {
 p {
   margin-bottom: 1.28rem;
 }
+/* Additional CSS*/
+
+.layout-bottom {
+    background: #00a6e2;
+    color: #FFF;
+
+}
+.layout-bottom p, .layout-bottom a{
+  font-size: 14pt;
+}
