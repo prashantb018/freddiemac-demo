@@ -383,3 +383,10 @@ div#block-umami-branding {
 h1,h2,h3,h4,p,a{
   font-family: Roboto,Arial,Calibri,Lucida Sans Unicode,sans-serif!important;
 }
+.table--app-list th{
+text-align: left;
+padding-bottom: 10px;
+}
+.table--app-list td{
+min-width: 200px;
+}
