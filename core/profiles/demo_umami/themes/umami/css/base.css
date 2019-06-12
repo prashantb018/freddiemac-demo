@@ -267,12 +267,16 @@ p {
 .layout-bottom {
     background: #89bd15!important;
     color: #FFF;
+    padding: 15px 0!important;
 }
 footer.footer {
     background: #00a6e2!important;
+    padding: 40px 0!important;
 }
-.layout-bottom p, .layout-bottom a{
-  font-size: 14pt;
+.layout-bottom p, .layout-bottom a {
+    font-size: 12pt;
+    padding: 0;
+    margin: 0;
 }
 .path-frontpage main.main.container {
     display: none;
