@@ -423,3 +423,12 @@ input#edit-submit-apigee-api-catalog {
 .path-apis .form-item label {
     display: none;
 }
+nav.breadcrumb {
+    padding-left: 0;
+}
+h1.page-title {
+    text-align: left;
+    background: #00a6e2;
+    color: #FFF;
+    padding: 20px;
+}
